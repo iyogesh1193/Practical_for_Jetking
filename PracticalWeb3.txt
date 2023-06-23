@@ -1,0 +1,15 @@
+QUES.1 Web3.js ?
+ANS.   Web3.js is a library that allows you to interact with a local or remote Ethereum node using HTTP, IPC, or WebSocket.
+   Web3.js allows you to develop websites or clients that interact with the blockchain.
+
+QUES.2 Web3 and Web2 diffrence.
+ANS.  Web3 is a name given to the third iteration of the Internet. An internet built using a decentralized blockchain on the mutual leadge used by cryptocurrencies like bitcoin.
+That's when Web3 came in demand. Decentralization of the Internet fundamentally means that no one company will keep and use your data. It will be stored on the blockchain, relevance in customer acquisition.
+  Web2 is the current Internet period, starting from 2004, when websites become more interactive, allowing user to create thair content.
+
+QUES.3 Check Account Balance with Web3.js?
+ANS.   Web3.js can be used in the front-end back-end to check account balances, read data from the blockchain, make transactions, and even deploy smart contracts.
+ Now that all of your dependencies are installed, let's walk through how you can check your account balance with web3.js.
+
+you can require Web3.js like this:
+   const Web3=require('web3');
